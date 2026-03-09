@@ -7,8 +7,7 @@
 🎯 En este perfil encontrarás proyectos enfocados en **análisis de datos**, **visualización de información**, y **toma de decisiones basada en datos**.
 
 ## 👇 Contact Me
- [estela.trdz@outlook.com](#) | [www.linkedin.com/in/estela-trujillo-rdz-070116314](#) 
-
+ [estela.trdz@outlook.com](#) |**LinkedIn:** [estela-trujillordz](https://www.linkedin.com/in/estela-trujillordz)
 ## 🛠️ Skills
 - **Lenguajes**: SQL, Python  
 - **Visualización de Datos**: Power BI  
