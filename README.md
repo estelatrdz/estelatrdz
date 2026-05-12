@@ -10,7 +10,7 @@
 ## 🛠️ Herramientas y tecnologías
 
 - **Análisis de negocios**: Business Analysis · BPMN · Gap Analysis · User Stories · Requerimientos funcionales
-- **Datos y visualización**: SQL · Power BI · Python (pandas) · DAX
+- **Datos y visualización**: SQL · Power BI · Python · DAX
 - **Gestión de proyectos**: Jira · Confluence · Scrum · Kanban
 - **Modelado de procesos**: Bizagi · Visio
 
