@@ -27,5 +27,5 @@ Tablero interactivo para monitoreo de KPIs críticos de negocio, diseñado para 
 
 ## 📫 Contacto
 
-- 📧 estela.trdz@outlook.com
+- 📧 estela.trujillo.rdz@gmail.com
 - 🔗 [LinkedIn: estela-trujillordz](https://www.linkedin.com/in/estela-trujillordz)
