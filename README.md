@@ -1,4 +1,4 @@
-# Hola, soy Estela Trujillo 👋
+# Hola, soy Estela Trujillo Rodríguez 👋
 
 ## Sobre mí
 
