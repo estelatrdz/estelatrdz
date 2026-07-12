@@ -25,7 +25,7 @@ Análisis de comportamiento de visitantes, tendencias por región y estacionalid
 ### 🔹 [Reto Grow Up Data Analytics — Dashboard de KPIs](https://github.com/estelatrdz/PBI_Projects/blob/main/Reto%20Grow%20UP.pbix)
 Tablero interactivo para monitoreo de KPIs críticos de negocio, diseñado para facilitar la toma de decisiones estratégicas en tiempo real.
 
-### 🔹 [Reto Fútbol 2026 — Copa Mundial de Fútbol](Reto_Copa_Mundial/README.md)**
+### 🔹 [Reto Fútbol 2026 — Copa Mundial de Fútbol]((https://github.com/estelatrdz/PBI_Projects/tree/main/Reto_Copa_Mundial )
 
 Dashboard interactivo en Power BI con 3 pantallas sobre la Copa Mundial de Fútbol 2026. Modelo de datos en esquema estrella (6 tablas), con insights validados directamente contra los datasets fuente. Desarrollado como Reto de 14 días de Grow Up Data Analytics.
 
