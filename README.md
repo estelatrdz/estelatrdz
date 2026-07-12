@@ -16,7 +16,7 @@
 
 ## 📂 Proyectos destacados
 
-### 🔹 [Reto Fútbol 2026 — Copa Mundial de Fútbol]((https://github.com/estelatrdz/PBI_Projects/tree/main/Reto_Copa_Mundial)
+### 🔹 [Reto Fútbol 2026 — Copa Mundial de Fútbol](https://github.com/estelatrdz/PBI_Projects/tree/main/Reto_Copa_Mundial)
 Dashboard interactivo en Power BI con 3 pantallas sobre la Copa Mundial de Fútbol 2026. Modelo de datos en esquema estrella (6 tablas), con insights validados directamente contra los datasets fuente. Desarrollado como Reto de 14 días de Grow Up Data Analytics.
 
 ### 🔹 [Dashboard Caso Dos Pinos — KPIs de ventas y distribución](https://github.com/estelatrdz/PBI_Projects/tree/main/KPI's_DosPinos)
