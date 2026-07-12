@@ -25,7 +25,7 @@ Dashboard interactivo en Power BI desarrollado en el evento "Inmersión en Anál
 ### 🔹 [Dashboard Turismo Costa Rica — Análisis de KPIs](https://github.com/estelatrdz/PBI_Projects/tree/main/Tourism_KPI's)
 Análisis de comportamiento de visitantes, tendencias por región y estacionalidad del sector turístico de Costa Rica. Dashboard con KPIs e insights para apoyo a decisiones estratégicas.
 
-### 🔹 [Reto Grow Up Data Analytics — Dashboard de KPIs](https://github.com/estelatrdz/PBI_Projects/blob/main/Reto%20Grow%20UP.pbix)
+### 🔹 [Reto Grow Up Data Analytics — Dashboard de KPIs](https://github.com/estelatrdz/PBI_Projects/tree/main/Reto_GrowUp)
 Tablero interactivo para monitoreo de KPIs críticos de negocio, diseñado para facilitar la toma de decisiones estratégicas en tiempo real.
 
 ## 📫 Contacto
